@@ -4,4 +4,6 @@
   
   The data was extracted the from the government website on # March 24, 2021.
   
-  (https://data.gov.in/resources/real-time-air-quality-index-various-locations/api#/Resource/get_resource_3b01bcb8_0b14_4abf_b6f2_c1bfd384ba69)
+  ## Source link where all the open source data can be extracted
+    
+   [https://data.gov.in/]
