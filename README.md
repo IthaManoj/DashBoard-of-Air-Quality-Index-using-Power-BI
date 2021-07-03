@@ -1,4 +1,4 @@
-# Data Visualization of Air Quality Index in Different Cities
+# Data Visualization of Air Quality Index in Different Cities of India
 
   This repository contains the power BI dashboard which I have created with the help of data I have.
   
